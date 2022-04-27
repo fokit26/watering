@@ -1,4 +1,4 @@
-created by Loiko Maksim
+created by Loiko Maksim.
 
 Автополив для растений. Представляет собой схему собраную на базе платформы Arduino.
 Код написан на C. В CodeVisionAVR.
