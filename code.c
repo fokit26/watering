@@ -1,7 +1,7 @@
 /*******************************************************
 This program was created by the CodeWizardAVR V3.45 
 Automatic Program Generator
-© Copyright 1998-2021 Pavel Haiduc, HP InfoTech S.R.L.
+Â© Copyright 1998-2021 Pavel Haiduc, HP InfoTech S.R.L.
 http://www.hpinfotech.ro
 
 Project : 
